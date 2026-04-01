@@ -1,7 +1,24 @@
 {
+<<<<<<< HEAD
   "dependencies": {
     "cors": "^2.8.6",
     "express": "^5.2.1",
     "mongoose": "^9.3.3"
   }
 }
+=======
+  "name": "salon-booking-system",
+  "version": "1.0.0",
+  "description": "Salon Booking System Backend",
+  "main": "BACKEND/server/server.js",
+  "scripts": {
+    "start": "node BACKEND/server/server.js",
+    "dev": "nodemon BACKEND/server/server.js"
+  },
+  "dependencies": {
+    "dotenv": "^16.6.1",
+    "express": "^4.22.1",
+    "mongoose": "^8.23.0"
+  }
+}
+>>>>>>> c7cb03c (initial back-end setup)
