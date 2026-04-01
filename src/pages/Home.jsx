@@ -123,7 +123,7 @@ export default function Home() {
         padding: '20px',
         fontSize: 13,
       }}>
-        ✦ LuxeBook — Salon Booking App · Demo Project
+        ✦ LuxeBook — Salon Booking App 
       </footer>
     </div>
   );
